@@ -4,7 +4,7 @@
 
 -learning Python🐍
 
-Reach me @ [Instagram ] (https://www.instagram.com/nitish_baidya/)
+Reach me @ [Instagram ](https://www.instagram.com/nitish_baidya/)
 
 
 
