@@ -1,4 +1,10 @@
-Officially Nitish Baidya
+-Officially Nitish Baidya
   
-Football lover
+-Football lover⚽
+
+-learning Python🐍
+
+Reach me @ [Instagram : https://www.instagram.com/nitish_baidya/]
+
+
 
