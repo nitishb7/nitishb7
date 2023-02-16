@@ -1,43 +1,37 @@
-body {
-    margin: 60px auto;
-    width: 70%;
+body{
+    background-color:black;
+    font-style: italic;
+    color:aquamarine }
+h1{
+    color: aliceblue;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
 }
-nav ul, footer ul {
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    padding: 0px;
-    list-style: none;
-    font-weight: bold;
+h2{
+color: aliceblue;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
 }
-nav ul li, footer ul li {
-    display: inline;
-    margin-right: 20px;
+.my-hobbies{
+    color: rgb(0, 217, 255);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
 }
-a {
-    text-decoration: none;
-    color: #999;
-}
-a:hover {
-    text-decoration: underline;
-}
-h1 {
-    font-size: 3em;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
-}
-p {
-    font-size: 1.5em;
-    line-height: 1.4em;
-    color: #333;
-}
-footer {
-    border-top: 1px solid #d5d5d5;
-    font-size: .8em;
+.my-movies{
+    color: rgb(255, 255, 255);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
 }
 
-ul.posts { 
-    margin: 20px auto 40px; 
-    font-size: 1.5em;
+.favorite-movies{
+    color: rgb(0, 213, 255);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
 }
 
-ul.posts li {
-    list-style: none;
-}
+table{
+    border-color: aliceblue;
+    font-family:Times 'Times New Roman';
+    color:whitesmoke;
+    font-style: italic;   
+    }
