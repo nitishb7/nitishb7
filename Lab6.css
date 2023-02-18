@@ -1,0 +1,80 @@
+body{
+    background-color:black;
+    font-style: italic;
+    color:aquamarine }
+h1{
+    color: aliceblue;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+h2{
+    color: aliceblue;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+h6{
+        color: rgb(0, 217, 255) ;
+        font-family: 'Times New Roman', Times, serif;
+        font-style: italic;
+        font-size: 20px;
+}
+
+h7{
+    color: rgb(0, 217, 255) ;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+    font-size: 20px;
+}
+.my-hobbies{
+    color: rgb(0, 217, 255);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+}
+.my-movies{
+    color: rgb(255, 255, 255);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+}
+
+.favorite-movies{
+    color: rgb(0, 213, 255);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+}
+
+table{
+    border-color: aliceblue;
+    font-family:Times 'Times New Roman';
+    color:whitesmoke;
+    font-style: italic;   
+    }
+
+.input-box{
+    color: rgb(0, 213, 255);
+    font-family: 'Courier New', Courier, monospace;
+}
+#name {
+    background-color: white;
+    border: none;
+}
+#name2 {
+    background-color: white;
+    border: none;
+}
+#email {
+    background-color: white;
+    border: none;
+}
+
+.button {
+    padding: 3px;
+    background:rgb(0, 213, 255);
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.check-box{
+    font-family: 'Courier New', Courier, monospace;
+    color:cyan;
+    font-size: 18px;
+
+}
